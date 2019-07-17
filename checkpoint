@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\github repo\\Driver_Drowsiness_Detection\\my_model.tflearn"
+all_model_checkpoint_paths: "D:\\github repo\\Driver_Drowsiness_Detection\\my_model.tflearn"
